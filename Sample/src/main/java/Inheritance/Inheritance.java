@@ -4,7 +4,7 @@ public class Inheritance
 {
 	public void add()
 	{
-		System.out.println("Hello world");
+		System.out.println("Hello");
 	}
 
 	public static void main(String[] args) 
@@ -12,6 +12,7 @@ public class Inheritance
 		Inheritance obj=new Inheritance();
         obj.add();
 	}
+	
 }
 
 
